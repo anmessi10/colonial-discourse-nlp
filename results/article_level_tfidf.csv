@@ -1,0 +1,31 @@
+country,rank,term,mean_tfidf
+India,1,congress,0.0911
+India,2,muslim,0.0677
+India,3,conference,0.0645
+India,4,india,0.0605
+India,5,government,0.0583
+India,6,united,0.0536
+India,7,ministry,0.0534
+India,8,district,0.0472
+India,9,freedom,0.0459
+India,10,could,0.0457
+British Malaya,1,malaya,0.0919
+British Malaya,2,indians,0.0797
+British Malaya,3,malay,0.0718
+British Malaya,4,india,0.0698
+British Malaya,5,times,0.067
+British Malaya,6,british,0.066
+British Malaya,7,chinese,0.0659
+British Malaya,8,malays,0.064
+British Malaya,9,sir,0.0564
+British Malaya,10,malayan,0.0555
+Australia,1,aborigines,0.1228
+Australia,2,would,0.0608
+Australia,3,said,0.0594
+Australia,4,new,0.0585
+Australia,5,aboriginal,0.0531
+Australia,6,native,0.0478
+Australia,7,natives,0.0454
+Australia,8,south,0.0436
+Australia,9,white,0.0426
+Australia,10,one,0.0412

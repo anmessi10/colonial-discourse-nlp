@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Historical newspaper OCR files
+data/raw/
+data/processed/
+
+# Local Excel copy
+data/master_dataset.xlsx

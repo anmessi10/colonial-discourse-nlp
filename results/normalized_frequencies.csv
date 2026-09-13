@@ -1,0 +1,61 @@
+country,rank,term,count,per_1000_tokens
+India,1,congress,24,10.43
+India,2,tribes,20,8.69
+India,3,india,18,7.82
+India,4,government,15,6.52
+India,5,aboriginal,12,5.21
+India,6,people,12,5.21
+India,7,conference,12,5.21
+India,8,resolution,10,4.34
+India,9,areas,10,4.34
+India,10,may,10,4.34
+India,11,must,10,4.34
+India,12,ministry,9,3.91
+India,13,district,9,3.91
+India,14,said,9,3.91
+India,15,freedom,9,3.91
+India,16,world,9,3.91
+India,17,message,9,3.91
+India,18,assam,9,3.91
+India,19,inquiry,8,3.48
+India,20,report,8,3.48
+British Malaya,1,malaya,34,10.7
+British Malaya,2,malay,26,8.18
+British Malaya,3,country,25,7.87
+British Malaya,4,british,20,6.29
+British Malaya,5,times,19,5.98
+British Malaya,6,indians,19,5.98
+British Malaya,7,would,19,5.98
+British Malaya,8,india,18,5.66
+British Malaya,9,malays,18,5.66
+British Malaya,10,labour,17,5.35
+British Malaya,11,indian,17,5.35
+British Malaya,12,people,17,5.35
+British Malaya,13,may,16,5.03
+British Malaya,14,malayan,16,5.03
+British Malaya,15,government,15,4.72
+British Malaya,16,us,15,4.72
+British Malaya,17,sir,14,4.41
+British Malaya,18,chinese,13,4.09
+British Malaya,19,state,13,4.09
+British Malaya,20,policy,13,4.09
+Australia,1,aborigines,43,14.83
+Australia,2,new,29,10.0
+Australia,3,native,25,8.62
+Australia,4,natives,23,7.93
+Australia,5,said,22,7.59
+Australia,6,would,21,7.24
+Australia,7,white,19,6.55
+Australia,8,one,17,5.86
+Australia,9,aboriginal,16,5.52
+Australia,10,government,15,5.17
+Australia,11,made,14,4.83
+Australia,12,policy,12,4.14
+Australia,13,leave,12,4.14
+Australia,14,officers,12,4.14
+Australia,15,camp,12,4.14
+Australia,16,man,11,3.79
+Australia,17,people,11,3.79
+Australia,18,us,11,3.79
+Australia,19,affairs,11,3.79
+Australia,20,reserves,10,3.45
