@@ -130,6 +130,16 @@ colonial-discourse-nlp/
 └── paper/
     └── colonial_discourse_1939.pdf
 
+## Research Paper
+
+[Read the full research paper (PDF)](paper/colonial_discourse_1939.pdf)
+
+## Notebooks
+
+- [Data Quality](notebooks/01_data_quality.ipynb)
+- [Preprocessing](notebooks/02_preprocessing.ipynb)
+- [Results](notebooks/03_results.ipynb)
+
 Reproducability:
 
 Clone the repository and install the required Python packages:
