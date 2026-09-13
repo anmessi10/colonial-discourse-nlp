@@ -140,44 +140,42 @@ colonial-discourse-nlp/
 - [Preprocessing](notebooks/02_preprocessing.ipynb)
 - [Results](notebooks/03_results.ipynb)
 
-Reproducability:
+## Reproducibility
 
 Clone the repository and install the required Python packages:
 
-git clone <repository-url>
+```bash
+git clone https://github.com/anmessi10/colonial-discourse-nlp.git
 cd colonial-discourse-nlp
 pip install -r requirements.txt
+```
 
 The notebooks are intended to be run in the following order:
 
-01_data_quality.ipynb
-02_preprocessing.ipynb
-03_results.ipynb
+1. `01_data_quality.ipynb` — validates the corpus and metadata.
+2. `02_preprocessing.ipynb` — performs OCR cleaning and text preprocessing.
+3. `03_results.ipynb` — generates the NLP analysis and results.
 
-Limitations:
+The raw and processed OCR text files are not included in the public repository. The repository contains the metadata, analysis notebooks, results, and research paper.
 
-The corpus is relatively small and was constructed through targeted
-historical newspaper sampling rather than random sampling. The number of
-articles also differs between the three settings.
+## Limitations
 
-Historical newspaper OCR quality varies between sources, and some
-preprocessing was therefore required.
+The corpus is relatively small and was constructed through targeted historical newspaper sampling rather than comprehensive archival collection. OCR errors may remain despite conservative preprocessing, and historical terminology has been preserved rather than modernized. The thematic annotations are also interpretive and may involve overlap between People, Land, and Culture.
 
-The thematic categories were manually assigned and involve interpretive
-decisions. The results should therefore be understood as patterns within
-the selected corpus rather than as a complete representation of newspaper
-discourse in each country.
+The three country corpora are not equal in size, and the selected newspapers do not represent all newspaper discourse in their respective historical contexts. Therefore, the findings should be interpreted as patterns within the sampled corpus rather than as comprehensive representations of India, British Malaya, or Australia in 1939.
 
-Research Paper:
+## Research Paper
 
-The full research paper is available in the paper/ directory.
+[Read the full research paper (PDF)](paper/colonial_discourse_1939.pdf)
 
-Title:
+[View the editable Word version](paper/Colonial%20and%20Settler-Colonial%20Discourse%20in%201939%20An%20NLP%20%20Analysis%20of%20%20People%2C%20Land%2C%20and%20Culture%20in%20India%2C%20British%20Malaya%2C%20and%20Australia.docx)
+
+## Title:
 
 NLP Analysis of Colonial and Settler-Colonial Newspaper Discourse in 1939:
 People, Land, and Culture in India, British Malaya, and Australia
 
-Author:
+## Author:
 
 Anish Sanjay Kulkarni
 
