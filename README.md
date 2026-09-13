@@ -129,7 +129,7 @@ colonial-discourse-nlp/
 ├── README.md
 └── paper/
     └── colonial_discourse_1939.pdf
-
+```
 ## Research Paper
 
 [Read the full research paper (PDF)](paper/colonial_discourse_1939.pdf)
